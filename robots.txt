@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RyanAn16.github.io/content-retrieval-lab/sitemap.xml
